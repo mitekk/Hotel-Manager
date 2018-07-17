@@ -1,0 +1,22 @@
+{
+    "hotels": [
+        {
+            "id": "1",
+            "name": "Hilton",
+            "address": "Hotel Address #1",
+            "picSrc": "http://www3.hilton.com/resources/media/hi/FRAHAHI/en_US/img/shared/full_page_image_gallery/main/HL_hotelextng002_2_1270x560_FitToBoxSmallDimension_Center.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Astoria",
+            "address": "Hotel Address #2",
+            "picSrc": "https://www.almeidahotels.pt/sites/default/files/styles/slides/public/hotel-astoria-alexandre-almeida.jpg?itok=sLZc9uUG"
+        },
+        {
+            "id": "3",
+            "name": "City-Central",
+            "address": "Hotel Address #3",
+            "picSrc": "https://www.schick-hotels.com/files/images/content/hotel-city-central/Hotel%20City%20Central_Eingang_F9A0482-HDR%20-%20Kleiner%202.jpg"
+        }
+    ]
+}
